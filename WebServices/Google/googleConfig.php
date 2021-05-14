@@ -1,6 +1,11 @@
 <?php
 
 //Booked Settings
+
+//Uses the Google PHP SDK Client Library to et the user information
+//Needs to be installed using Composer-> composer require google/apiclient:"^2.0"
+//Or manually installed
+
 //Error Message
 define("DEFAULT_ERROR_MESSAGE", "Something went wrong, with google login.");
 
