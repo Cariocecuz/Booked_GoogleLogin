@@ -11,6 +11,10 @@ If you don't have your own you can crete one here: https://console.cloud.google.
 
 You are going to need to add your Client ID, secret and your redirect URI in the config file. THE REDIRECT PATH NEEDS TO BE ABSOLUTE POINTING TO "googleAuth.php" IN YOUR WEB FOLDER.
 
+Uses the Google PHP SDK Client Library to get the user information so it must be installed into /WebService/Google 
+Needs to be installed using Composer-> composer require google/apiclient:"^2.0"
+Or manually installed
+
 Do not forget to add your redirect uri to the google app as well when creating it, so it knows where to go.
 Example image
 
