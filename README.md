@@ -13,4 +13,5 @@ You are going to need to add your Client ID, secret and your redirect URI in the
 
 Do not forget to add your redirect uri to the google app as well when creating it, so it knows where to go.
 Example image
+
 ![image](https://user-images.githubusercontent.com/33222172/118257698-d7060980-b4a6-11eb-8842-874fea7fd33e.png)
